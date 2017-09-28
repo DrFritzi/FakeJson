@@ -2,11 +2,28 @@
   "users": [
     {
       "id": "m",
-	  "canPlay": true
+	  "canPlay": true,
+	  "name": "M. Bernhard"
     },	
     {
       "id": "n",
-	  "canPlay": false
+	  "canPlay": false,
+	  "name": "N. Nordpol"
+    },	
+    {
+      "id": "0004175805",
+	  "canPlay": false,
+	  "name": "Ferder"
+    },	
+    {
+      "id": "0003656454",
+	  "canPlay": true,
+	  "name": "Steve"
+    },	
+    {
+      "id": "0003194160",
+	  "canPlay": true,
+	  "name": "Blue"
     }
   ]
 }
