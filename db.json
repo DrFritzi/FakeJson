@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "m",
+	  "canPlay": true
+    },	
+    {
+      "id": "n",
+	  "canPlay": false
+    }
+  ]
+}
